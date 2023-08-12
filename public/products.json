@@ -3,63 +3,63 @@
         "id": 1,
         "productName": "Wireless Bluetooth Headphones",
         "price": 49.99,
-        "image": "https://example.com/images/headphones.jpg",
+        "image": "https://i.ibb.co/bQm2znb/image.png",
         "description": "Enjoy high-quality sound with these wireless Bluetooth headphones. Comfortable and stylish design for all-day wear."
     },
     {
         "id": 2,
         "productName": "Smartphone Tripod Stand",
         "price": 15.95,
-        "image": "https://example.com/images/tripod.jpg",
+        "image": "https://i.ibb.co/VTHRMjC/image.png",
         "description": "Capture stable and clear photos and videos with this adjustable smartphone tripod stand. Perfect for content creators."
     },
     {
         "id": 3,
         "productName": "Leather Messenger Bag",
         "price": 89.99,
-        "image": "https://example.com/images/bag.jpg",
+        "image": "https://i.ibb.co/DkqnVFH/image.png",
         "description": "Carry your essentials in style with this genuine leather messenger bag. Ideal for work, travel, or everyday use."
     },
     {
         "id": 4,
         "productName": "Fitness Tracker Watch",
         "price": 29.75,
-        "image": "https://example.com/images/watch.jpg",
+        "image": "https://i.ibb.co/gVR28XZ/image.png",
         "description": "Monitor your health and stay active with this feature-packed fitness tracker watch. Track steps, heart rate, and more."
     },
     {
         "id": 5,
         "productName": "Professional Chef Knife Set",
         "price": 119.99,
-        "image": "https://example.com/images/knife-set.jpg",
+        "image": "https://i.ibb.co/v3f1LMs/image.png",
         "description": "Upgrade your culinary skills with this premium chef knife set. High-quality stainless steel blades for precision cutting."
     },
     {
         "id": 6,
         "productName": "Portable External Hard Drive",
         "price": 79.50,
-        "image": "https://example.com/images/hard-drive.jpg",
+        "image": "https://i.ibb.co/xh24PF1/image.png",
         "description": "Expand your storage capacity with this portable external hard drive. Fast data transfer and durable design."
     },
     {
         "id": 7,
         "productName": "Wireless Charging Pad",
         "price": 24.99,
-        "image": "https://example.com/images/charging-pad.jpg",
+        "image": "https://i.ibb.co/6P7BmZL/image.png",
         "description": "Conveniently charge your devices wirelessly with this sleek and compact charging pad. Compatible with most smartphones."
     },
     {
         "id": 8,
         "productName": "Ultra HD 4K Smart TV",
         "price": 599.00,
-        "image": "https://example.com/images/smart-tv.jpg",
+        "image": "https://i.ibb.co/HN610dg/image.png",
         "description": "Immerse yourself in stunning visuals with this ultra HD 4K smart TV. Smart features for streaming and entertainment."
     },
     {
         "id": 9,
         "productName": "Gaming Laptop",
         "price": 1299.99,
-        "image": "https://example.com/images/gaming-laptop.jpg",
+        "image": "https://i.ibb.co/qJCcsSj/image.png",
         "description": "Elevate your gaming experience with this high-performance gaming laptop. Powerful hardware and RGB lighting."
     }
 ]
